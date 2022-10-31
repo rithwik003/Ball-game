@@ -41,12 +41,13 @@
     width: 20px;
     height: 20px;
     margin-left:10px ;
-    background-color: rgb(255, 0, 208);
-    border: 5px solid rgb(144, 0, 255);
+    background-color: red;
+    border: 5px solid yellow;
     position: absolute;
     top: 100px;
     border-radius: 50%;
 }
+
 .bb{
     position: relative;
     margin-top: 50px;
@@ -55,6 +56,7 @@
     
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
 #dis{
     color: whitesmoke;
     font-family: sans-serif;
