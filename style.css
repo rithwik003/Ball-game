@@ -47,3 +47,11 @@
     top: 100px;
     border-radius: 50%;
 }
+.bb{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 15vh;
+    color: rgb(70, 162, 243);
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
